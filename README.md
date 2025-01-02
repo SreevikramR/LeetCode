@@ -14,4 +14,4 @@ Repo to track my LeetCode progress
 | 10  | 704    | Binary Search               | Easy       | [Problem](https://leetcode.com/problems/binary-search) | [Solution](0704_Binary_Search/Binary_Search.py) | 31 Dec 2024 |
 | 11  | 733    | Flood Fill                  | Easy       | [Problem](https://leetcode.com/problems/flood-fill) | [Solution](0733_Flood_Fill/Flood_Fill.cpp) | 1 Jan 2025 |
 | 12  | 141    | Linked List Cycle           | Easy       | [Problem](https://leetcode.com/problems/linked-list-cycle) | [Solution](0141_Linked_List_Cycle/Linked_List_Cycle.cpp) | 2 Jan 2025 |
-| 13  | 232    | Implement Queue Using Stacks | Easy      | [Problem](https://leetcode.com/problems/implement-queue-using-stacks) | [Solution](0232_Implement_Queue_Using_Stacks/Implement_Queue_Using_Stacks.cpp | 2 Jan 2025 |
+| 13  | 232    | Implement Queue Using Stacks | Easy      | [Problem](https://leetcode.com/problems/implement-queue-using-stacks) | [Solution](0232_Implement_Queue_Using_Stacks/Implement_Queue_Using_Stacks.cpp) | 2 Jan 2025 |
