@@ -15,3 +15,4 @@ Repo to track my LeetCode progress
 | 11  | 733    | Flood Fill                  | Easy       | [Problem](https://leetcode.com/problems/flood-fill) | [Solution](0733_Flood_Fill/Flood_Fill.cpp) | 1 Jan 2025 |
 | 12  | 141    | Linked List Cycle           | Easy       | [Problem](https://leetcode.com/problems/linked-list-cycle) | [Solution](0141_Linked_List_Cycle/Linked_List_Cycle.cpp) | 2 Jan 2025 |
 | 13  | 232    | Implement Queue Using Stacks | Easy      | [Problem](https://leetcode.com/problems/implement-queue-using-stacks) | [Solution](0232_Implement_Queue_Using_Stacks/Implement_Queue_Using_Stacks.cpp) | 2 Jan 2025 |
+| 14  | 278    | First Bad Version            | Easy      | [Problem](https://leetcode.com/problems/first-bad-version) | [Solution](0278_First_Bad_Version/First_Bad_Version.cpp) | 2 Jan 2025 |
