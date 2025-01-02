@@ -13,3 +13,4 @@ Repo to track my LeetCode progress
 | 9   | 242    | Valid Anagram               | Easy       | [Problem](https://leetcode.com/problems/valid-anagram) | [Solution](0242_Valid_Anagram/Valid_Anagram.py) | 31 Dec 2024 |
 | 10  | 704    | Binary Search               | Easy       | [Problem](https://leetcode.com/problems/binary-search) | [Solution](0704_Binary_Search/Binary_Search.py) | 31 Dec 2024 |
 | 11  | 733    | Flood Fill                  | Easy       | [Problem](https://leetcode.com/problems/flood-fill) | [Solution](0733_Flood_Fill/Flood_Fill.cpp) | 1 Jan 2025 |
+| 12  | 141    | Linked List Cycle           | Easy       | [Problem](https://leetcode.com/problems/linked-list-cycle) | [Solution](0141_Linked_List_Cycle/Linked_List_Cycle.cpp) | 2 Jan 2025 |
