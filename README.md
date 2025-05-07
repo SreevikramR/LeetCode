@@ -16,3 +16,4 @@ Repo to track my LeetCode progress
 | 12  | 141    | Linked List Cycle           | Easy       | [Problem](https://leetcode.com/problems/linked-list-cycle) | [Solution](0141_Linked_List_Cycle/Linked_List_Cycle.cpp) | 2 Jan 2025 |
 | 13  | 232    | Implement Queue Using Stacks | Easy      | [Problem](https://leetcode.com/problems/implement-queue-using-stacks) | [Solution](0232_Implement_Queue_Using_Stacks/Implement_Queue_Using_Stacks.cpp) | 2 Jan 2025 |
 | 14  | 278    | First Bad Version            | Easy      | [Problem](https://leetcode.com/problems/first-bad-version) | [Solution](0278_First_Bad_Version/First_Bad_Version.cpp) | 2 Jan 2025 |
+| 15  | 226    | Invert Binary Tree            | Easy      | [Problem](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](0226_Invert_Binary_Tree/Invert_Binary_Tree.cpp) | 6 May 2025 |
