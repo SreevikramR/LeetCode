@@ -25,3 +25,4 @@ Repo to track my LeetCode progress
 | 21  | 70  | Climbing Stairs         |  Easy      | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](0070_Climbing_Stairs/Climbing_Stairs.cpp) | 17 May 2025 |
 | 22  | 169  | Majority Element         |  Easy      | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](0169_Majority_Element/Majority_Element.cpp) | 17 May 2025 |
 | 23  | 876  | Middle of Linked List    |  Easy      | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](0876_Middle_of_Linked_List/Middle_of_Linked_List.cpp) | 17 May 2025 |
+| 24  | 217  | Contains Duplicate    |  Easy      | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](0217_Contains_Duplicate/Contains_Duplicate.cpp) | 17 May 2025 |
