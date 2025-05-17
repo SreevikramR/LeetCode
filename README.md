@@ -20,3 +20,4 @@ Repo to track my LeetCode progress
 | 16  | 206    | Reverse Linked List           | Easy      | [Problem](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](0206_Reverse_Linked_List/Reverse_Linked_List.cpp) | 7 May 2025 |
 | 17  | 110   | Balanced Binary Tree          | Easy      | [Problem](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](0110_Balanced_Binary_Tree/Balanced_Binary_Tree.cpp) | 17 May 2025 |
 | 18  | 235   | Lowest Common Ancestor of a BST | Medium      | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](0235_LCA_of_BST/LCA_of_BST.cpp) | 17 May 2025 |
+| 19  | 75   | Sort Colors                  | Medium      | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](0075_Sort_Colors/Sort_Colors.cpp) | 17 May 2025 |
