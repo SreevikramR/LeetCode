@@ -22,3 +22,4 @@ Repo to track my LeetCode progress
 | 18  | 235   | Lowest Common Ancestor of a BST | Medium      | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](0235_LCA_of_BST/LCA_of_BST.cpp) | 17 May 2025 |
 | 19  | 75   | Sort Colors                  | Medium      | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](0075_Sort_Colors/Sort_Colors.cpp) | 17 May 2025 |
 | 20  | 409  | Longest Palindrome         |  Easy      | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](0409_Longest_Palindrome/Longest_Palindrome.cpp) | 17 May 2025 |
+| 21  | 70  | Climbing Stairs         |  Easy      | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](0070_Climbing_Stairs/Climbing_Stairs.cpp) | 17 May 2025 |
