@@ -18,3 +18,4 @@ Repo to track my LeetCode progress
 | 14  | 278    | First Bad Version            | Easy      | [Problem](https://leetcode.com/problems/first-bad-version) | [Solution](0278_First_Bad_Version/First_Bad_Version.cpp) | 2 Jan 2025 |
 | 15  | 226    | Invert Binary Tree            | Easy      | [Problem](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](0226_Invert_Binary_Tree/Invert_Binary_Tree.cpp) | 6 May 2025 |
 | 16  | 206    | Reverse Linked List           | Easy      | [Problem](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](0206_Reverse_Linked_List/Reverse_Linked_List.cpp) | 7 May 2025 |
+| 17  | 0110   | Balanced Binary Tree          | Easy      | [Problem](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](0110_Balanced_Binary_Tree/Balanced_Binary_Tree.cpp) | 17 May 2025 |
