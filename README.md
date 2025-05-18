@@ -27,3 +27,4 @@ Repo to track my LeetCode progress
 | 23  | 876  | Middle of Linked List    |  Easy      | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](0876_Middle_of_Linked_List/Middle_of_Linked_List.cpp) | 17 May 2025 |
 | 24  | 217  | Contains Duplicate    |  Easy      | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](0217_Contains_Duplicate/Contains_Duplicate.cpp) | 17 May 2025 |
 | 25  | 844  | Backspace String Compare |  Easy    | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](0844_Backspace_String_Compate/Backspace_String_Compare.cpp) | 17 May 2025 |
+| 26  | 67  | Add Binary |  Easy    | [Problem](https://leetcode.com/problems/add-binary/) | [Solution](0067_Add_Binary/Add_Binary.cpp) | 17 May 2025 |
