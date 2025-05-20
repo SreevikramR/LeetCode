@@ -32,3 +32,4 @@ Repo to track my LeetCode progress
 | 28  | 191  | Number of 1 Bits |  Easy    | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](0191_Number_of_1_bits/Number_of_1_bits.cpp) | 19 May 2025 |
 | 29  | 3355  | Zero Array Transformation I |  Medium    | [Problem](https://leetcode.com/problems/zero-array-transformation-i/) | [Solution](3355_Zero_Array_Transformation_I/Zero_Array_Transformation_I.cpp) | 20 May 2025 |
 | 30  | 13  | Roman to Integer |  Easy    | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](0013_Roman_To_Integer/Roman_To_Integer.cpp) | 20 May 2025 |
+| 31  | 102  | Binary Tree Level Order Traversal |  Medium    | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](0102_Binary_Tree_Level_Order_Traversal/Binary_Tree_Level_Order_Traversal.cpp) | 20 May 2025 |
