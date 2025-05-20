@@ -31,3 +31,4 @@ Repo to track my LeetCode progress
 | 27  | 104  | Maximum Depth of Binary Tree |  Easy    | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](0104_Maximum_Depth_Of_Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp) | 18 May 2025 |
 | 28  | 191  | Number of 1 Bits |  Easy    | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](0191_Number_of_1_bits/Number_of_1_bits.cpp) | 19 May 2025 |
 | 29  | 3355  | Zero Array Transformation I |  Medium    | [Problem](https://leetcode.com/problems/zero-array-transformation-i/) | [Solution](3355_Zero_Array_Transformation_I/Zero_Array_Transformation_I.cpp) | 20 May 2025 |
+| 30  | 13  | Roman to Integer |  Easy    | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](0013_Roman_To_Integer/Roman_To_Integer.cpp) | 20 May 2025 |
