@@ -29,3 +29,4 @@ Repo to track my LeetCode progress
 | 25  | 844  | Backspace String Compare |  Easy    | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](0844_Backspace_String_Compate/Backspace_String_Compare.cpp) | 17 May 2025 |
 | 26  | 67  | Add Binary |  Easy    | [Problem](https://leetcode.com/problems/add-binary/) | [Solution](0067_Add_Binary/Add_Binary.cpp) | 18 May 2025 |
 | 27  | 104  | Maximum Depth of Binary Tree |  Easy    | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](0104_Maximum_Depth_Of_Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp) | 18 May 2025 |
+| 28  | 191  | Number of 1 Bits |  Easy    | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](0191_Number_of_1_bits/Number_of_1_bits.cpp) | 19 May 2025 |
