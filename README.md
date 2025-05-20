@@ -30,3 +30,4 @@ Repo to track my LeetCode progress
 | 26  | 67  | Add Binary |  Easy    | [Problem](https://leetcode.com/problems/add-binary/) | [Solution](0067_Add_Binary/Add_Binary.cpp) | 18 May 2025 |
 | 27  | 104  | Maximum Depth of Binary Tree |  Easy    | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](0104_Maximum_Depth_Of_Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp) | 18 May 2025 |
 | 28  | 191  | Number of 1 Bits |  Easy    | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](0191_Number_of_1_bits/Number_of_1_bits.cpp) | 19 May 2025 |
+| 29  | 3355  | Zero Array Transformation I |  Medium    | [Problem](https://leetcode.com/problems/zero-array-transformation-i/) | [Solution](3355_Zero_Array_Transformation_I/Zero_Array_Transformation_I.cpp) | 20 May 2025 |
