@@ -35,3 +35,4 @@ Repo to track my LeetCode progress
 | 31  | 102  | Binary Tree Level Order Traversal |  Medium    | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](0102_Binary_Tree_Level_Order_Traversal/Binary_Tree_Level_Order_Traversal.cpp) | 20 May 2025 |
 | 32  | 543  | Diameter of Binary Tree |  Easy    | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](0543_Diameter_of_Binary_Tree/Diameter_Of_Binary_Tree.cpp) | 20 May 2025 |
 | 33  | 73  | Set Zero Matrix |  Medium    | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](0073_Set_Zero_Matrix/Set_Zero_Matrix.cpp) | 21 May 2025 |
+| 34  | 14  | Longest Common Prefix |  Easy    | [Problem](https://leetcode.com/problems/longest-common-prefix/) | [Solution](0014_Longest_Common_Prefix/Longest_Common_Prefix.cpp) | 21 May 2025 |
