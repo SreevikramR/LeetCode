@@ -42,3 +42,4 @@ Repo to track my LeetCode progress
 | 38  | 2  | Add Two numbers |  Medium    | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](0002_Add_Two_Numbers/Add_Two_Numbers.cpp) | 25 May 2025 |
 | 39  | 125  | Palindrome Number |  Easy    | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](0009_Palindrome_Number/0009_Palindrome_Number.cpp) | 26 May 2025 |
 | 40  | 2894  | Divisible and Non-Divisible Sums Difference |  Easy    | [Problem](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](2894_Div_And_Non_Div_Sums_Difference/Div_And_Non_Div_Sums_Difference.cpp) | 26 May 2025 |
+| 41  | 338  | Counting Bits |  Easy    | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](0338_Counting_bits/Counting_Bits.cpp) | 30 May 2025 |
