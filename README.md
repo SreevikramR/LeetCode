@@ -44,3 +44,4 @@ Repo to track my LeetCode progress
 | 40  | 2894  | Divisible and Non-Divisible Sums Difference |  Easy    | [Problem](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](2894_Div_And_Non_Div_Sums_Difference/Div_And_Non_Div_Sums_Difference.cpp) | 26 May 2025 |
 | 41  | 338  | Counting Bits |  Easy    | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](0338_Counting_bits/Counting_Bits.cpp) | 30 May 2025 |
 | 42  | 136  | Single Number |  Easy    | [Problem](https://leetcode.com/problems/single-number/) | [Solution](0136_Single_Number/Single_Number.cpp) | 30 May 2025 |
+| 43  | 108  | Convert Sorted Array to BST |  Easy    | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](0108_Convert_Sorted_Array_to_BST/Convert_Sorted_Array_to_BST.cpp) | 30 May 2025 |
