@@ -45,3 +45,4 @@ Repo to track my LeetCode progress
 | 41  | 338  | Counting Bits |  Easy    | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](0338_Counting_bits/Counting_Bits.cpp) | 30 May 2025 |
 | 42  | 136  | Single Number |  Easy    | [Problem](https://leetcode.com/problems/single-number/) | [Solution](0136_Single_Number/Single_Number.cpp) | 30 May 2025 |
 | 43  | 108  | Convert Sorted Array to BST |  Easy    | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](0108_Convert_Sorted_Array_to_BST/Convert_Sorted_Array_to_BST.cpp) | 30 May 2025 |
+| 44  | 100  | Same Tree |  Easy    | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](0100_Same_Tree/Same_Tree.cpp) | 02 June 2025 |
