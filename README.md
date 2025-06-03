@@ -47,3 +47,4 @@ Repo to track my LeetCode progress
 | 43  | 108  | Convert Sorted Array to BST |  Easy    | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](0108_Convert_Sorted_Array_to_BST/Convert_Sorted_Array_to_BST.cpp) | 30 May 2025 |
 | 44  | 100  | Same Tree |  Easy    | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](0100_Same_Tree/Same_Tree.cpp) | 02 June 2025 |
 | 45  | 234  | Palindrome Linked List |  Easy    | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](0234_Palindrome_Linked_List/Palindrome_Linked_List.cpp) | 02 June 2025 |
+| 46  | 101  | Symmetric Tree |  Easy    | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](0101_Symmetric_Tree/Symmetric_Tree.cpp) | 02 June 2025 |
