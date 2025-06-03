@@ -48,3 +48,4 @@ Repo to track my LeetCode progress
 | 44  | 100  | Same Tree |  Easy    | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](0100_Same_Tree/Same_Tree.cpp) | 02 June 2025 |
 | 45  | 234  | Palindrome Linked List |  Easy    | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](0234_Palindrome_Linked_List/Palindrome_Linked_List.cpp) | 02 June 2025 |
 | 46  | 101  | Symmetric Tree |  Easy    | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](0101_Symmetric_Tree/Symmetric_Tree.cpp) | 02 June 2025 |
+| 47  | 572  | Subtree of Another Tree |  Easy    | [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](0572_Subtree_of_Another_Tree/Subtree_of_Another_Tree.cpp) | 02 June 2025 |
