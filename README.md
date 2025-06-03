@@ -49,3 +49,4 @@ Repo to track my LeetCode progress
 | 45  | 234  | Palindrome Linked List |  Easy    | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](0234_Palindrome_Linked_List/Palindrome_Linked_List.cpp) | 02 June 2025 |
 | 46  | 101  | Symmetric Tree |  Easy    | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](0101_Symmetric_Tree/Symmetric_Tree.cpp) | 02 June 2025 |
 | 47  | 572  | Subtree of Another Tree |  Easy    | [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](0572_Subtree_of_Another_Tree/Subtree_of_Another_Tree.cpp) | 02 June 2025 |
+| 48  | 977  | Squares of a Sorted Array |  Easy    | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](0977_Squres_of_a_Sorted_Array/Squares_of_a_Sorted_Array.cpp) | 02 June 2025 |
