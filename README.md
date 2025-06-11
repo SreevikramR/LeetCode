@@ -51,3 +51,4 @@ Repo to track my LeetCode progress
 | 47  | 572  | Subtree of Another Tree |  Easy    | [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](0572_Subtree_of_Another_Tree/Subtree_of_Another_Tree.cpp) | 02 June 2025 |
 | 48  | 977  | Squares of a Sorted Array |  Easy    | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](0977_Squres_of_a_Sorted_Array/Squares_of_a_Sorted_Array.cpp) | 02 June 2025 |
 | 49  | 3442  | Maximum Difference Between Even and Odd Frequency I |  Easy    | [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Solution](3442_Maximum_Difference_Between_Even_And_Odd_Frequency_I/Maximum_Difference_Between_Even_And_Odd_Frequency_I.cpp) | 09 June 2025 |
+| 50  | 53  | Maximum Subarray |  Medium    | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](0053_Maximum_Subarray/Maximum_Subarray.cpp) | 10 June 2025 |
