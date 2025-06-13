@@ -56,3 +56,4 @@ Repo to track my LeetCode progress
 | 52  | 2390  | Removing Stars from a String |  Medium    | [Problem](https://leetcode.com/problems/removing-stars-from-a-string/) | [Solution](2930_Removing_Stars_from_a_String/Removing_Stars_from_a_String.cpp) | 12 June 2025 |
 | 53  | 973  | K Closest Points to Origin |  Medium    | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Solution](0973_K_Closest_Points_to_Origin/K_Closest_Points_to_Origin.cpp) | 12 June 2025 |
 | 54  | 542  | 01 Matrix |  Medium    | [Problem](https://leetcode.com/problems/01-matrix/description/) | [Solution](0542_01_Matrix/01_Matrix.cpp) | 12 June 2025 |
+| 55  | 57  | Insert Interval |  Medium    | [Problem](https://leetcode.com/problems/insert-interval) | [Solution](0057_Insert_Interval/Insert_Interval.cpp) | 12 June 2025 |
