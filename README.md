@@ -59,3 +59,4 @@ Repo to track my LeetCode progress
 | 55  | 57  | Insert Interval |  Medium    | [Problem](https://leetcode.com/problems/insert-interval) | [Solution](0057_Insert_Interval/Insert_Interval.cpp) | 12 June 2025 |
 | 56  | 150  | Evaluate Reverse Polish Notation |  Medium    | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](0150_Evaluate_Reverse_Polish_Notation/Reverse_Polish_Notation.cpp) | 13 June 2025 |
 | 57  | 133  | Clone Graph |  Medium    | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](0133_Clone_Graph/Clone_Graph.cpp) | 13 June 2025 |
+| 58  | 98  | Validate Binary Search Tree |  Medium    | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](0098_Validate_BST/Validate_BST.cpp) | 14 June 2025 |
