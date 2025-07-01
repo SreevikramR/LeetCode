@@ -60,3 +60,4 @@ Repo to track my LeetCode progress
 | 56  | 150  | Evaluate Reverse Polish Notation |  Medium    | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](0150_Evaluate_Reverse_Polish_Notation/Reverse_Polish_Notation.cpp) | 13 June 2025 |
 | 57  | 133  | Clone Graph |  Medium    | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](0133_Clone_Graph/Clone_Graph.cpp) | 13 June 2025 |
 | 58  | 98  | Validate Binary Search Tree |  Medium    | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](0098_Validate_BST/Validate_BST.cpp) | 14 June 2025 |
+| 59  | 3330  | Find the Original Typed String I |  Easy    | [Problem](https://leetcode.com/problems/find-the-original-typed-string-i) | [Solution](3330_Find_the_Original_Typed_String_I/Find_the_Original_Typed_String.cpp) | 30 June 2025 |
