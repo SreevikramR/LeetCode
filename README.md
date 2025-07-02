@@ -61,3 +61,4 @@ Repo to track my LeetCode progress
 | 57  | 133  | Clone Graph |  Medium    | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](0133_Clone_Graph/Clone_Graph.cpp) | 13 June 2025 |
 | 58  | 98  | Validate Binary Search Tree |  Medium    | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](0098_Validate_BST/Validate_BST.cpp) | 14 June 2025 |
 | 59  | 3330  | Find the Original Typed String I |  Easy    | [Problem](https://leetcode.com/problems/find-the-original-typed-string-i) | [Solution](3330_Find_the_Original_Typed_String_I/Find_the_Original_Typed_String.cpp) | 30 June 2025 |
+| 60  | 3  | Longest Substring Without Repeating Characters |  medium    | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](0003_Longest_Substring_Without_Repeating_Characters/Longest_Substring_Without_Repeating_Characters.cpp) | 02 Jul 2025 |
