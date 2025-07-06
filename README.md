@@ -66,4 +66,5 @@ Repo to track my LeetCode progress
 | 62  | 207  | Course Schedule |  Medium    | [Problem](https://leetcode.com/problems/course-schedule/description/) | [Solution](0207_Course_Schedule/Course_Schedule.cpp) | 04 Jul 2025 |
 | 63  | 1394  | Find Luck Integer |  Easy    | [Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Solution](1394_Find_Lucky_Integer_in_Array/Find_Luck_Integer_in_Array.cpp) | 05 Jul 2025 |
 | 64  | 11  | Container With Most Water |  Medium    | [Problem](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](0011_Container_With_Most_Water/Container_With_Most_Water.cpp) | 05 Jul 2025 |
-| 65  | 15  | 3Sum |  Medium    | [Problem](https://leetcode.com/problems/3Sum/description/) | [Solution](0015_3Sum/3Sum.cpp) | 05 Jul 2025 |
+| 65  | 15  | 3Sum |  Medium    | [Problem](https://leetcode.com/problems/3Sum/description/) | [Solution](0015_3Sum/3Sum.cpp) | 06 Jul 2025 |
+| 66  | 322  | Coin Change |  Medium    | [Problem](https://leetcode.com/problems/coin-change/description/) | [Solution](0322_Coin_Change/Coin_Change.cpp) | 06 Jul 2025 |
