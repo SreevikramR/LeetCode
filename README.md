@@ -68,3 +68,4 @@ Repo to track my LeetCode progress
 | 64  | 11  | Container With Most Water |  Medium    | [Problem](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](0011_Container_With_Most_Water/Container_With_Most_Water.cpp) | 05 Jul 2025 |
 | 65  | 15  | 3Sum |  Medium    | [Problem](https://leetcode.com/problems/3Sum/description/) | [Solution](0015_3Sum/3Sum.cpp) | 06 Jul 2025 |
 | 66  | 322  | Coin Change |  Medium    | [Problem](https://leetcode.com/problems/coin-change/description/) | [Solution](0322_Coin_Change/Coin_Change.cpp) | 06 Jul 2025 |
+| 67  | 208  | Implement Trie |  Medium    | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Solution](0208_Implement_Trie/Implement_Trie.cpp) | 06 Jul 2025 |
