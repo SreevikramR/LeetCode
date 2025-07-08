@@ -71,3 +71,4 @@ Repo to track my LeetCode progress
 | 67  | 208  | Implement Trie |  Medium    | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Solution](0208_Implement_Trie/Implement_Trie.cpp) | 06 Jul 2025 |
 | 68  | 155  | Min Stack |  Medium    | [Problem](https://leetcode.com/problems/min-stack/description/) | [Solution](0155_Min_Stack/Min_Stack.cpp) | 06 Jul 2025 |
 | 69  | 238  | Product Of Array Except Self |  Medium    | [Problem](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](0238_Product_of_Array_Except_Self/Product_of_Array_Except_Self.cpp) | 06 Jul 2025 |
+| 70  | 739  | Daily Temperatures |  Medium    | [Problem](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](0739_Daily_Temperatures/Daily_Temperatures.cpp) | 07 Jul 2025 |
