@@ -74,3 +74,4 @@ Repo to track my LeetCode progress
 | 70  | 739  | Daily Temperatures |  Medium    | [Problem](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](0739_Daily_Temperatures/Daily_Temperatures.cpp) | 07 Jul 2025 |
 | 71  | 200  | Number of Islands |  Medium    | [Problem](https://leetcode.com/problems/number-of-islands/description/) | [Solution](0200_Number_of_Islands/Number_of_Islands.cpp) | 08 Jul 2025 |
 | 72  | 994  | Rotting Oranges |  Medium    | [Problem](https://leetcode.com/problems/rotting-oranges/description/) | [Solution](0994_Rotting_Oranges/Rotting_Oranges.cpp) | 09 Jul 2025 |
+| 73  | 33  | Search in Rotated Sorted Array |  Medium    | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](0033_Search_in_Rotated_Sorted_Array/Search_in_Rotated_Sorted_Array.cpp) | 09 Jul 2025 |
