@@ -76,3 +76,4 @@ Repo to track my LeetCode progress
 | 72  | 994  | Rotting Oranges |  Medium    | [Problem](https://leetcode.com/problems/rotting-oranges/description/) | [Solution](0994_Rotting_Oranges/Rotting_Oranges.cpp) | 09 Jul 2025 |
 | 73  | 33  | Search in Rotated Sorted Array |  Medium    | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](0033_Search_in_Rotated_Sorted_Array/Search_in_Rotated_Sorted_Array.cpp) | 09 Jul 2025 |
 | 74  | 56  | Merge Intervals |  Medium    | [Problem](https://leetcode.com/problems/merge-intervals/description/) | [Solution](0056_Merge_Intervals/Merge_Intervals.cpp) | 09 Jul 2025 |
+| 75  | 236  | Lowest Common Ancestor of Binary Tree |  Medium    | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Solution](0236_Lowest_Common_Ancestor_of_Binary_Tree/Lowest_Common_Ancestor_of_Binary_Tree.cpp) | 09 Jul 2025 |
