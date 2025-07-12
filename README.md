@@ -79,3 +79,4 @@ Repo to track my LeetCode progress
 | 75  | 236  | Lowest Common Ancestor of Binary Tree |  Medium    | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Solution](0236_Lowest_Common_Ancestor_of_Binary_Tree/Lowest_Common_Ancestor_of_Binary_Tree.cpp) | 09 Jul 2025 |
 | 76  | 46  | Permutations |  Medium    | [Problem](https://leetcode.com/problems/permutations/description/) | [Solution](0046_Permutations/Permutations.cpp) | 10 Jul 2025 |
 | 77  | 39  | Combination Sum |  Medium    | [Problem](https://leetcode.com/problems/combination-sum/description/) | [Solution](0039_Combination_Sum/Combination_Sum.cpp) | 10 Jul 2025 |
+| 78  | 8  | String to Integer (atoi) |  Medium    | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](0008_String_to_Integer/String_to_Integer.cpp) | 11 Jul 2025 |
