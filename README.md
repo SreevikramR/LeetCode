@@ -80,3 +80,4 @@ Repo to track my LeetCode progress
 | 76  | 46  | Permutations |  Medium    | [Problem](https://leetcode.com/problems/permutations/description/) | [Solution](0046_Permutations/Permutations.cpp) | 10 Jul 2025 |
 | 77  | 39  | Combination Sum |  Medium    | [Problem](https://leetcode.com/problems/combination-sum/description/) | [Solution](0039_Combination_Sum/Combination_Sum.cpp) | 10 Jul 2025 |
 | 78  | 8  | String to Integer (atoi) |  Medium    | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](0008_String_to_Integer/String_to_Integer.cpp) | 11 Jul 2025 |
+| 79  | 2410  | Maximum Matching of Players With Trainers |  Medium    | [Problem](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | [Solution](2410_Maximum_Matching_of_Players_With_Trainers/Maximum_Matching_of_Players_With_Trainers.cpp) | 12 Jul 2025 |
