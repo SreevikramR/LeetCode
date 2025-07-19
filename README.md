@@ -83,3 +83,4 @@ Repo to track my LeetCode progress
 | 79  | 2410  | Maximum Matching of Players With Trainers |  Medium    | [Problem](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | [Solution](2410_Maximum_Matching_of_Players_With_Trainers/Maximum_Matching_of_Players_With_Trainers.cpp) | 12 Jul 2025 |
 | 80  | 1290  | Convert Binary Number in a Linked List to Integer |  Easy    | [Problem](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Solution](1290_Convert_Linked_List_to_Integer/Convert_Linked_List_to_Integer.cpp) | 13 Jul 2025 |
 | 81  | 3136  | Valid Word |  Easy    | [Problem](https://leetcode.com/problems/valid-word/description/) | [Solution](3136_Valid_Word/Valid_Word.cpp) | 14 Jul 2025 |
+| 82  | 328  | Odd Even Linked List |  Meduim    | [Problem](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](0328_Odd_Even_Linked_List/Odd_Even_Linked_List.cpp) | 19 Jul 2025 |
