@@ -86,3 +86,4 @@ Repo to track my LeetCode progress
 | 82  | 328  | Odd Even Linked List |  Meduim    | [Problem](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](0328_Odd_Even_Linked_List/Odd_Even_Linked_List.cpp) | 19 Jul 2025 |
 | 83  | 54  | Spiral Matrix |  Meduim    | [Problem](https://leetcode.com/problems/spiral-matrix/description/) | [Solution](0054_Spiral_Matrix/Spiral_Matrix.cpp) | 19 Jul 2025 |
 | 84  | 199  | Binary Tree Right Side View |  Meduim    | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](0199_Binary_Tree_Right_Side_View/Binary_Tree_Right_Side_View.cpp) | 20 Jul 2025 |
+| 85  | 78  | Subsets |  Meduim    | [Problem](https://leetcode.com/problems/subsets/description/) | [Solution](0078_Subsets/Subsets.cpp) | 20 Jul 2025 |
