@@ -88,3 +88,4 @@ Repo to track my LeetCode progress
 | 84  | 199  | Binary Tree Right Side View |  Meduim    | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](0199_Binary_Tree_Right_Side_View/Binary_Tree_Right_Side_View.cpp) | 20 Jul 2025 |
 | 85  | 78  | Subsets |  Meduim    | [Problem](https://leetcode.com/problems/subsets/description/) | [Solution](0078_Subsets/Subsets.cpp) | 20 Jul 2025 |
 | 86  | 981  | Time Based Key-Value Store |  Meduim    | [Problem](https://leetcode.com/problems/time-based-key-value-store/description/) | [Solution](0981_Time_Based_Key_Value_Store/Time_Based_Key_Value_Store.cpp) | 20 Jul 2025 |
+| 87  | 1957  | Delete Characters to Make Fancy String |  Easy    | [Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [Solution](1957_Delete_Characters_to_Make_Fancy_String/Delete_Characters_to_Make_Fancy_String.cpp) | 20 Jul 2025 |
