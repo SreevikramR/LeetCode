@@ -87,3 +87,4 @@ Repo to track my LeetCode progress
 | 83  | 54  | Spiral Matrix |  Meduim    | [Problem](https://leetcode.com/problems/spiral-matrix/description/) | [Solution](0054_Spiral_Matrix/Spiral_Matrix.cpp) | 19 Jul 2025 |
 | 84  | 199  | Binary Tree Right Side View |  Meduim    | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](0199_Binary_Tree_Right_Side_View/Binary_Tree_Right_Side_View.cpp) | 20 Jul 2025 |
 | 85  | 78  | Subsets |  Meduim    | [Problem](https://leetcode.com/problems/subsets/description/) | [Solution](0078_Subsets/Subsets.cpp) | 20 Jul 2025 |
+| 86  | 981  | Time Based Key-Value Store |  Meduim    | [Problem](https://leetcode.com/problems/time-based-key-value-store/description/) | [Solution](0981_Time_Based_Key_Value_Store/Time_Based_Key_Value_Store.cpp) | 20 Jul 2025 |
