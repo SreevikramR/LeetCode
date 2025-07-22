@@ -89,3 +89,4 @@ Repo to track my LeetCode progress
 | 85  | 78  | Subsets |  Meduim    | [Problem](https://leetcode.com/problems/subsets/description/) | [Solution](0078_Subsets/Subsets.cpp) | 20 Jul 2025 |
 | 86  | 981  | Time Based Key-Value Store |  Meduim    | [Problem](https://leetcode.com/problems/time-based-key-value-store/description/) | [Solution](0981_Time_Based_Key_Value_Store/Time_Based_Key_Value_Store.cpp) | 20 Jul 2025 |
 | 87  | 1957  | Delete Characters to Make Fancy String |  Easy    | [Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [Solution](1957_Delete_Characters_to_Make_Fancy_String/Delete_Characters_to_Make_Fancy_String.cpp) | 20 Jul 2025 |
+| 88  | 1695  | Maximum Erasure Value |  Medium    | [Problem](https://leetcode.com/problems/maximum-erasure-value/description) | [Solution](1695_Maximum_Erasure_Value/Maximum_Erasure_Value.cpp) | 21 Jul 2025 |
