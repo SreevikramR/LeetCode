@@ -91,3 +91,4 @@ Repo to track my LeetCode progress
 | 87  | 1957  | Delete Characters to Make Fancy String |  Easy    | [Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [Solution](1957_Delete_Characters_to_Make_Fancy_String/Delete_Characters_to_Make_Fancy_String.cpp) | 20 Jul 2025 |
 | 88  | 1695  | Maximum Erasure Value |  Medium    | [Problem](https://leetcode.com/problems/maximum-erasure-value/description) | [Solution](1695_Maximum_Erasure_Value/Maximum_Erasure_Value.cpp) | 21 Jul 2025 |
 | 89  | 721  | Accounts Merge |  Medium    | [Problem](https://leetcode.com/problems/accounts-merge/description) | [Solution](0721_Accounts_Merge/Accounts_Merge.cpp) | 21 Jul 2025 |
+| 90  | 230  | Kth Smallest Element in a BST |  Medium    | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Solution](0230_Kth_Smallest_Element_in_a_BST/Kth_Smallest_Element_in_a_BST.cpp) | 21 Jul 2025 |
