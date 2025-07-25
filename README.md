@@ -95,3 +95,4 @@ Repo to track my LeetCode progress
 | 91  | 1717  | Maximum Score from Removing Substrings |  Medium    | [Problem](https://leetcode.com/problems/maximum-score-from-removing-substrings/description) | [Solution](1717_Maximum_Score_from_removing_Substrings/Maximum_Score_from_Removing_Substrings.cpp) | 22 Jul 2025 |
 | 92  | 416  | Partition Equal Subset Sum |  Medium    | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](0416_Partition_Equal_Subset_Sum/Partition_Equal_Subset_Sum.cpp) | 22 Jul 2025 |
 | 93  | 139  | Word Break |  Medium    | [Problem](https://leetcode.com/problems/word-break/description/) | [Solution](0139_Word_Break/Word_Break.cpp) | 23 Jul 2025 |
+| 94  | 79  | Word Search |  Medium    | [Problem](https://leetcode.com/problems/word-search/description/) | [Solution](0079_Word_Search/Word_Search.cpp) | 24 Jul 2025 |
