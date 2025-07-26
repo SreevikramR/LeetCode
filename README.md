@@ -96,3 +96,4 @@ Repo to track my LeetCode progress
 | 92  | 416  | Partition Equal Subset Sum |  Medium    | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](0416_Partition_Equal_Subset_Sum/Partition_Equal_Subset_Sum.cpp) | 22 Jul 2025 |
 | 93  | 139  | Word Break |  Medium    | [Problem](https://leetcode.com/problems/word-break/description/) | [Solution](0139_Word_Break/Word_Break.cpp) | 23 Jul 2025 |
 | 94  | 79  | Word Search |  Medium    | [Problem](https://leetcode.com/problems/word-search/description/) | [Solution](0079_Word_Search/Word_Search.cpp) | 24 Jul 2025 |
+| 95  | 5  | Longest Palindromic Substring |  Medium    | [Problem](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](0005_Longest_Palindromic_Substring/Longest_Palindromic_Substring.cpp) | 25 Jul 2025 |
