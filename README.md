@@ -97,3 +97,4 @@ Repo to track my LeetCode progress
 | 93  | 139  | Word Break |  Medium    | [Problem](https://leetcode.com/problems/word-break/description/) | [Solution](0139_Word_Break/Word_Break.cpp) | 23 Jul 2025 |
 | 94  | 79  | Word Search |  Medium    | [Problem](https://leetcode.com/problems/word-search/description/) | [Solution](0079_Word_Search/Word_Search.cpp) | 24 Jul 2025 |
 | 95  | 5  | Longest Palindromic Substring |  Medium    | [Problem](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](0005_Longest_Palindromic_Substring/Longest_Palindromic_Substring.cpp) | 25 Jul 2025 |
+| 96  | 17  | Letter Combinations of a Phone Number |  Medium    | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](0017_Letter_Combinations_of_a_Phone_Number/Letter_Combinations_of_a_Phone_Number.cpp) | 26 Jul 2025 |
